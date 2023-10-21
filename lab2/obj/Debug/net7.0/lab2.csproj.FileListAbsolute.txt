@@ -1,0 +1,14 @@
+E:\Projects\C#\Crossplatform\lab2\bin\Debug\net7.0\lab2.exe
+E:\Projects\C#\Crossplatform\lab2\bin\Debug\net7.0\lab2.deps.json
+E:\Projects\C#\Crossplatform\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+E:\Projects\C#\Crossplatform\lab2\bin\Debug\net7.0\lab2.dll
+E:\Projects\C#\Crossplatform\lab2\bin\Debug\net7.0\lab2.pdb
+E:\Projects\C#\Crossplatform\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Crossplatform\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+E:\Projects\C#\Crossplatform\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+E:\Projects\C#\Crossplatform\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Crossplatform\lab2\obj\Debug\net7.0\lab2.dll
+E:\Projects\C#\Crossplatform\lab2\obj\Debug\net7.0\refint\lab2.dll
+E:\Projects\C#\Crossplatform\lab2\obj\Debug\net7.0\lab2.pdb
+E:\Projects\C#\Crossplatform\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+E:\Projects\C#\Crossplatform\lab2\obj\Debug\net7.0\ref\lab2.dll
