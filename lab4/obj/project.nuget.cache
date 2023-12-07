@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+aKUAHr1Yp6XqwvmoQBYl+mE/ffWLpVgGqhFNmKUg0LV9Ur6ZQPyePFiszTURSsU34hqPBDyDbOEeEHRfTBRcQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C#\\New folder\\lab4\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maksym\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.1.0\\mcmaster.extensions.commandlineutils.4.1.0.nupkg.sha512",
+    "C:\\Users\\Maksym\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
