@@ -1,6 +1,0 @@
-E:\Projects\C#\New folder\lab4\bin\Debug\net7.0\publish\lab4.exe
-E:\Projects\C#\New folder\lab4\bin\Debug\net7.0\publish\lab4.dll
-E:\Projects\C#\New folder\lab4\bin\Debug\net7.0\publish\lab4.deps.json
-E:\Projects\C#\New folder\lab4\bin\Debug\net7.0\publish\lab4.runtimeconfig.json
-E:\Projects\C#\New folder\lab4\bin\Debug\net7.0\publish\lab4.pdb
-E:\Projects\C#\New folder\lab4\bin\Debug\net7.0\publish\McMaster.Extensions.CommandLineUtils.dll
